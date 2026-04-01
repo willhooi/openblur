@@ -75,6 +75,17 @@ Brief (text)
        └─ FFmpeg audio mixing + export
 ```
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/terminal.png" alt="Terminal" width="400" />
+  <img src="screenshots/planning.png" alt="Planning" width="400" />
+</p>
+<p align="center">
+  <img src="screenshots/generation.png" alt="Generation" width="400" />
+  <img src="screenshots/output.png" alt="Output" width="400" />
+</p>
+
 ## Remotion Compositions
 
 The `src/compositions/` directory contains the React components that render each screen of the video:
