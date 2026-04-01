@@ -12,7 +12,8 @@
   <a href="#features">Features</a> &middot;
   <a href="#quick-start">Quick Start</a> &middot;
   <a href="#architecture">Architecture</a> &middot;
-  <a href="#examples">Examples</a>
+  <a href="#examples">Examples</a> &middot;
+  <a href="docs/EVOLUTION.md">Evolution Case Study</a>
 </p>
 
 ---
