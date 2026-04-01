@@ -248,6 +248,16 @@ We're not saying don't build AI agents. We're saying: be aware that the hype you
 
 What's fake is the product. There is no Sotong Agent v2. There is no AIMedia Academy. There is no waitlist. The squid is not sentient (yet).
 
+### What's actually behind the curtain
+
+The irony is — while OpenBlur is a prank, the internal tools behind it are not. At [AIMedia](https://aimedia.sg), we've been quietly building a pipeline that does what OpenBlur jokes about: generate influencer-style videos from a brief, with AI compositing, image-to-video, voiceover, music, and automated editing. It's real, it's working, and it's still being tested and debugged.
+
+But the goal was never to replace creators. It's to give them superpowers.
+
+A solo creator shouldn't need a production team to make a polished video. A small business shouldn't need a $10K budget to put out content that competes with brands that have entire media departments. The vision is tools that 10x a creator's productivity — not tools that make creators irrelevant.
+
+AI influencers are interesting tech. But the future we're building toward is one where human influencers use AI to do more, faster, better — not one where they get replaced by a squid in a headset.
+
 Happy April Fools. Stay skeptical out there.
 
 ## License
