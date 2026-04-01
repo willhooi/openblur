@@ -146,5 +146,8 @@ MIT
 ---
 
 <p align="center">
-  Built with 🦑 by the Sotong Agent
+  <br/>
+  <strong>⚠️ Disclaimer</strong><br/>
+  This is an April Fools 2026 project. A lousy attempt at a prank, but hey — the code is real and it actually works.<br/>
+  No sotongs were harmed in the making of this repo. 🦑
 </p>
