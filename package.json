@@ -1,0 +1,30 @@
+{
+  "name": "openblur",
+  "version": "0.1.0",
+  "description": "Open-source AI squid agent for influencer video production",
+  "scripts": {
+    "studio": "remotion studio src/index.tsx",
+    "render": "remotion render src/index.tsx OpenBlur output.mp4 --codec h264 --crf 18",
+    "screenshot:terminal": "remotion still src/index.tsx Terminal screenshots/terminal.png --frame 80",
+    "screenshot:planning": "remotion still src/index.tsx Planning screenshots/planning.png --frame 100",
+    "screenshot:generation": "remotion still src/index.tsx Generation screenshots/generation.png --frame 120",
+    "screenshot:output": "remotion still src/index.tsx Output screenshots/output.png --frame 80",
+    "screenshot:hero": "remotion still src/index.tsx Hero screenshots/hero.png --frame 60",
+    "screenshots": "mkdir -p screenshots && npm run screenshot:terminal && npm run screenshot:planning && npm run screenshot:generation && npm run screenshot:output && npm run screenshot:hero"
+  },
+  "dependencies": {
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "remotion": "^4.0.0",
+    "@remotion/cli": "^4.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "@types/react": "^18.3.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willhooi/openblur"
+  }
+}
